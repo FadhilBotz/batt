@@ -5,7 +5,7 @@ Silahkan Pilih Untuk Menampilkan Menu Bot
 
     『 BOT INFO 』
 
-*࿊⃟〽️* Device : Poco X3 
+*࿊⃟〽️* Device : Vivo S1 Pro
 *࿊⃟〽️* Wa Version : 2.21.11.17
 *࿊⃟〽️* OS Version : 11
 *࿊⃟〽️* MNC : 001
@@ -13,7 +13,7 @@ Silahkan Pilih Untuk Menampilkan Menu Bot
 *࿊⃟〽️* Platfrom : ${os.platform()}
 *࿊⃟〽️* Mode : ${publik ? 'Public' : 'Self'}
 *࿊⃟〽️* Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}
-*࿊⃟〽️* Name Creator : Helga Zex
+*࿊⃟〽️* Name Creator : DILL 17
 
 
        『 USER INFO 』
@@ -304,3 +304,6 @@ Silahkan Pilih Untuk Menampilkan Menu Bot
 *࿊⃟〽️* ${prefix}pantun
 *࿊⃟〽️* ${prefix}tospam [ _reply audio/sticker/image|jumlah_ ]
 *࿊⃟〽️* ${prefix}sharelock [ _teks1|teks2_ ]`
+
+SUBSCRIBE YT OWNER
+https://youtube.com/channel/UCoP-Swnjs-4za1CNBqJdzCQ
